@@ -16,3 +16,8 @@ git clone https://github.com/ABIRHOSSAIN10/front-camera-hack
 cd front-camera-hack 
 
 python CAMERA-HACK.py
+
+
+
+Script cradit:ABIRHOSSAIN10
+login page cradit:aktechunt3r
